@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+R1: Creates a git hidden files. Readies for first commit
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+R1: It's where files are added before commit. Allows more control over what is to be committed at any time.
