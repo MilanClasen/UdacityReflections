@@ -5,3 +5,20 @@ R1: Creates a git hidden files. Readies for first commit
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 R1: It's where files are added before commit. Allows more control over what is to be committed at any time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+R1: Branches can be used to work on new experimental features. Keeps master safe.
+
+How do the diagrams help you visualize the branch structure?
+
+R1: Easier to see commit relationships
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+R1: The joining of two development environments
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+R1: Manual merges can be time consuming
+R2: Git might make mistakes

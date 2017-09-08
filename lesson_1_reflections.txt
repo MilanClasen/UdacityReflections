@@ -29,3 +29,7 @@ R1: There's no fear of making permanent changes.
 Now that you have your workspace set up, what do you want to try using Git for?
 
 R1: Manage code
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+R1: By checking the altered files, and running diff checks
