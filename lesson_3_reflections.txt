@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+R1: When working with other people. 
+R2: When working on important projects
